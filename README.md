@@ -10,8 +10,7 @@ This repository contains **Handbook A (Version 6)**, an independent research wor
 - Six robustness tests completed
 - Full Python implementation included
 
-### Download
-- (Handbook%20Combined%20Zeta%20Prime%20Prediction.pdf)
+**Download:** [Handbook A v6.pdf](Handbook%20Combined%20Zeta%20Prime%20Prediction.pdf)
 
 **Author:** George Robinson  
 **Date:** May 2026
